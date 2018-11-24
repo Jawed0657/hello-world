@@ -1,1 +1,1 @@
-# hello-world A classic project for beginners like jawed 1
+# hello-world A classic project for beginners like jawed
